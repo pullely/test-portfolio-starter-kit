@@ -7,10 +7,9 @@ Static Assets** through [`@opennextjs/cloudflare`](https://opennext.js.org/cloud
 ## Live deployment
 
 <!-- 03-docs:begin -->
-Not recorded yet. The bootstrap's last phase writes the live URLs, the
-workspace and the secrets inventory into
-[ai/context/deployment.md](ai/context/deployment.md); how the site deploys
-and how to operate it is in
+This site is **live**. Verified URLs, identity and the secrets inventory are
+recorded in [ai/context/deployment.md](ai/context/deployment.md) (re-rendered
+by the `03-docs` phase); how it deploys and how to operate it:
 [ai/context/operations.md](ai/context/operations.md).
 <!-- 03-docs:end -->
 
